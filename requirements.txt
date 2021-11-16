@@ -1,5 +1,22 @@
-IPython==7.22.0
+Python version == 3.8.8
+IPython version == 7.22.0
 jupyter_client==6.1.12
 jupyter_core==4.7.1
 jupyterlab==3.0.14
-notebook==6.3.0
+pandas == 1.2.4
+scikit-learn == 0.24.1
+numpy == 1.20.1
+scikit-image == 0.16.2 
+cluster == 1.4.1.post2 
+ipywidgets == 7.6.3
+openpyxl == 3.0.7
+numpydoc == 1.1.0
+imageio == 2.9.0
+packaging == 20.9
+opencv-python == 7.2.0 
+imagesize == 1.2.0
+importlib-metadata == 0.17 
+kmeans-pytorch == 0.3
+matplotlib == 3.3.4
+notebook == 6.3.0
+watermark == 2.2.0
